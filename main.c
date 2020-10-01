@@ -1,3 +1,4 @@
+//Printing 3*3 matrix
 #include <stdio.h>
 
 #include <stdlib.h>
